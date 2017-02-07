@@ -10,6 +10,11 @@
 
 ![BMXUG](bmxug_logo_green.png)
 
+## ステッカーの利用例
+
+* イベントなどでスッテカー配布しています。
+
+![usecase](usecase01.png)
 
 # ライセンスについて
 * (c) 2015- Bluemix User Group
