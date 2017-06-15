@@ -10,6 +10,8 @@
 
 ![BMXUG](bmxug_logo_green.png)
 
+![BMXUG](bmxug_logo_pink.png)
+
 ## ステッカーの利用例
 
 * イベントなどでスッテカー配布しています。
