@@ -8,6 +8,9 @@
 * もし新しいロゴを作った場合には、このレポジトリにプルリクエストを出してください。
 * このロゴデザインがBluemixの発展に寄与する事を期待しています。
 
+![BMXUG](bmxug_logo_2017Festa.png)
+* 2017冬の大勉強会で作成したロゴ
+
 ![BMXUG](bmxug_logo_green.png)
 
 ![BMXUG](bmxug_logo_pink.png)
